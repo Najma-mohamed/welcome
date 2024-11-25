@@ -1,0 +1,74 @@
+ h2{
+    background-image: url('img/text.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 2em;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+
+}
+.section{
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+.section2{
+    background-color: wheat;
+    border-radius: 5px;
+
+}
+.section2 h1{
+    color: red;
+    font-size: 2.5em;
+    
+}
+.section3{
+    background-color: wheat;
+    border-radius: 5px;
+}
+.section3 h1{
+    color: red;
+}
+.section4{
+    background-color: wheat;
+    color: red;
+    font-size: 1.5em;
+}
+form{
+    text-align: center;
+    color: #cecece;
+   
+    border-radius: 5px;
+}
+input, textarea{
+    margin-bottom: 10px;
+    width: 72%;
+    border-radius: 5px;
+    background-color: #efefef;
+    border: solid 1px #cecece;
+    color: #cecece;
+    outline: none;
+    font-size: 12px;
+
+}
+input{
+    height: 50px;
+}
+textarea{
+    height: 100px;
+    padding: 10px;
+    color: #868383;
+}
+.submit{
+    background: brown;
+    color: #ffff;
+    font-weight: bold;
+}
+.submit:hover{
+    background: white ;
+    color: #990019;
+}
